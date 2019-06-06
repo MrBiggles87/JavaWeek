@@ -66,7 +66,7 @@ class numtoword{
 class testies{
     public static void main(String xyz[]){
         numtoword c=new numtoword();
-        c.convert(3625);
+        c.convert(9283);
         
     }
 }

@@ -47,7 +47,7 @@ class school2{
 		peter= new results();
 		james= new results();
 
-		peter.physics(1000);
+		peter.physics(100);
 		peter.chemistry(100);
 		peter.maths(90);
 		james.physics(40);
